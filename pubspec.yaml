@@ -1,0 +1,26 @@
+name: firebase_image_picker
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.0-221.0.dev <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.24.0
+  firebase_auth: ^3.11.2
+  cloud_firestore: ^3.5.1
+  image_picker: ^0.8.6
+  video_player: ^2.4.7
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

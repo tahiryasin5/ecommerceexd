@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000986262192",
+    "project_id": "ecommerce-7f574",
+    "storage_bucket": "ecommerce-7f574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000986262192:android:3a97a7ec01c4db4ecc5975",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000986262192-b84el6oqpo592oh67bn14qruqpsii26k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMtmGBRALp8SLU-AfmzwgTCDwbX8ajgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000986262192-b84el6oqpo592oh67bn14qruqpsii26k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
